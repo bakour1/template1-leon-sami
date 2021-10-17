@@ -275,7 +275,7 @@ color: black;
 /* End Header */
 /* Start Landing Section */
 .landing {
-    background-image: url(../images/wp7020992.jpg);
+    background-image: url(../Images/wp7020992.jpg);
     background-size: cover;
     height: calc(100vh - 55px);
     position: relative;
